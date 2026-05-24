@@ -1,0 +1,54 @@
+{
+  "android-sdk-setup": {
+    "archived_at": null,
+    "created_at": "2026-05-24T17:23:34.938844+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-05-24T17:30:50.164345+00:00",
+    "last_used_at": "2026-05-24T17:31:04.213264+00:00",
+    "last_viewed_at": "2026-05-24T17:31:04.211023+00:00",
+    "patch_count": 2,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "avalonia-development": {
+    "archived_at": null,
+    "created_at": "2026-05-24T14:42:31.666741+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-05-24T14:48:51.626388+00:00",
+    "last_used_at": null,
+    "last_viewed_at": null,
+    "patch_count": 1,
+    "pinned": false,
+    "state": "active",
+    "use_count": 0,
+    "view_count": 0
+  },
+  "dotnet-wpf-scaffolding": {
+    "archived_at": null,
+    "created_at": "2026-05-23T23:27:23.072796+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-05-23T23:36:06.668937+00:00",
+    "last_used_at": "2026-05-23T23:36:38.036063+00:00",
+    "last_viewed_at": "2026-05-23T23:36:38.033732+00:00",
+    "patch_count": 2,
+    "pinned": false,
+    "state": "active",
+    "use_count": 1,
+    "view_count": 1
+  },
+  "windows-cross-compile-mingw": {
+    "archived_at": null,
+    "created_at": "2026-05-23T22:43:36.121181+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-05-23T22:49:36.674764+00:00",
+    "last_used_at": "2026-05-24T17:19:51.587913+00:00",
+    "last_viewed_at": "2026-05-24T17:19:51.585577+00:00",
+    "patch_count": 2,
+    "pinned": false,
+    "state": "active",
+    "use_count": 3,
+    "view_count": 3
+  }
+}
